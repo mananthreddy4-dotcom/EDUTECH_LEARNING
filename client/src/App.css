@@ -1,0 +1,6 @@
+/* This file can be empty or removed - all styling is now done with Tailwind in components */
+
+.App {
+  width: 100%;
+  min-height: 100vh;
+}
